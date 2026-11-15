@@ -1,4 +1,4 @@
-# Samsung Sales Analysis Dashboard
+# Mobile Sales Analysis Dashboard
 
 ## Project Overview
 
